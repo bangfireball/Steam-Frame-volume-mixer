@@ -1,0 +1,14 @@
+{
+  "source": "builtin",
+  "applications": [{
+    "app_key": "org.steamframe.volume-mixer",
+    "launch_type": "binary",
+    "binary_path_linux": "frame-volume-mixer",
+    "binary_path_linux_arm": "frame-volume-mixer",
+    "is_dashboard_overlay": true,
+    "strings": {"en_us": {
+      "name": "Frame Volume Mixer",
+      "description": "Per-application playback volume and mute controls"
+    }}
+  }]
+}

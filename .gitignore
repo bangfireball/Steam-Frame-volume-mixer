@@ -1,0 +1,8 @@
+out/
+build/
+*.ppm
+*.log
+.vscode/
+.env
+.env.*
+!.env.example

@@ -1,0 +1,6 @@
+.git
+out
+build
+.env
+.env.*
+!.env.example
